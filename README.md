@@ -8,15 +8,17 @@
  
 # 目录
  
-## [2020年](https://github.com/bilibilifmk/My_diary/tree/master/2020)
-### [五月](https://github.com/bilibilifmk/My_diary/blob/master/2020/5%E6%9C%88.md)
-### [六月](https://github.com/bilibilifmk/My_diary/blob/master/2020/6%E6%9C%88.md)
-### [七月](https://github.com/bilibilifmk/My_diary/blob/master/2020/7%E6%9C%88.md)
-### [八月](https://github.com/bilibilifmk/My_diary/blob/master/2020/8%E6%9C%88.md)
-### [九月](https://github.com/bilibilifmk/My_diary/blob/master/2020/9%E6%9C%88.md)
-### [十月](https://github.com/bilibilifmk/My_diary/blob/master/2020/10%E6%9C%88.md)
-### [十一月](https://github.com/bilibilifmk/My_diary/blob/master/2020/11%E6%9C%88.md)
-### [十二月](https://github.com/bilibilifmk/My_diary/blob/master/2020/12%E6%9C%88.md)
+## [2020年](/2020)
+
+## [2021年](/2021)
+### [五月](/2021/5%E6%9C%88.md)
+### [六月](/2021/6%E6%9C%88.md)
+### [七月](/2021/7%E6%9C%88.md)
+### [八月](/2021/8%E6%9C%88.md)
+### [九月](/2021/9%E6%9C%88.md)
+### [十月](/2021/10%E6%9C%88.md)
+### [十一月](/2021/11%E6%9C%88.md)
+### [十二月](/2021/12%E6%9C%88.md)
 
 
 ### 开始时间2020.5.16
